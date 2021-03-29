@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog][keepachangelog-site],
 and this project adheres to [Semantic Versioning][semver-site].
 
+## [1.6.0](https://www.github.com/terraform-google-modules/terraform-google-scheduled-function/compare/v1.5.1...v1.6.0) (2021-03-29)
+
+
+### Features
+
+* add folder clean up ([#47](https://www.github.com/terraform-google-modules/terraform-google-scheduled-function/issues/47)) ([6d001bb](https://www.github.com/terraform-google-modules/terraform-google-scheduled-function/commit/6d001bb24197e6475500cdcfc8c291aabe41699c))
+
 ### [1.5.1](https://www.github.com/terraform-google-modules/terraform-google-scheduled-function/compare/v1.5.0...v1.5.1) (2020-09-02)
 
 
